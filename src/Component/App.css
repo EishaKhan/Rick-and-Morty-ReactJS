@@ -1,0 +1,100 @@
+/* @import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+body {
+    color: #5a5a5a;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    
+}
+
+.btn-search {
+    background: #FD3A13;
+    border-color: #FD3A13;
+    color: #fff;
+    padding: 7px 10px;
+}
+
+.btn-search:hover {
+    background: #ca1b1b;
+    border-color: #ca1b1b;
+}
+
+section {
+    padding: 30px 0;
+    float: left;
+    width: 100%;
+}
+
+.card {
+    float: left;
+    width: 100%
+}
+
+.title-small {
+    color: #141517;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    margin: 6px 0 0;
+}
+
+
+.title-small a {
+    color: inherit
+}
+
+.banner-sec {
+    float: left;
+    width: 100%;
+    background: #EBEBEB
+}
+
+.card-text {
+    margin: 0
+}
+
+.text-time {
+    color: #ff0000;
+    font-weight: 600;
+}
+
+header {
+    float: left;
+    width: 100%;
+}
+
+.top-head {
+    background: rgb(32, 35, 41);
+    width: 100%;
+    float: left;
+    height: 120px;
+}
+
+.top-head h1 {
+    color: white;
+    font-size: 55px;
+    font-weight: 900;
+    margin: 18px 0 0;
+    font-family: 'Lemonada', cursive;
+}
+
+.top-nav {
+    background: #fff;
+    padding: 0;
+    border-bottom: 1px solid #dbdbdb;
+ }
+
+ .search {
+    padding: 5px 0;
+    width: 230px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+    float: left;
+    line-height: 22px;
+}
+ */
